@@ -1,4 +1,5 @@
-rm -rf anime 
+work termux
+rm -rf Anime 
 git clone https://github.com/aniimee42/anime.git 
-cd anime 
-python anime.py
+cd Anime 
+python Anime.py
