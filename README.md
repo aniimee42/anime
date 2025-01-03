@@ -1,5 +1,5 @@
 work termux
-rm -rf Anime 
+rm -rf anime 
 git clone https://github.com/aniimee42/anime.git 
-cd Anime 
+cd anime
 python anime.py
