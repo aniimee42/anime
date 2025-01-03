@@ -1,5 +1,4 @@
-work termux
-rm -rf anime 
+rm -rf sheero 
 git clone git clone https://github.com/aniimee42/anime.git 
-cd anime
-python anime.py
+cd sheero
+python Sheero.py
